@@ -1,4 +1,18 @@
-## Hi there 👋
+# Привет, я Надя 👋
+
+Junior web developer. Учусь создавать сайты и веб-приложения.
+
+## Что изучаю
+- HTML, CSS
+- JavaScript, React
+- Node.js
+
+## Ищу
+Первую работу или стажировку в веб-разработке (remote).
+
+## Контакты
+- Email: mrixinanad25@icloud.com
+- Telegram: @nadiaaaan
 
 <!--
 **Nadyalele/Nadyalele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
